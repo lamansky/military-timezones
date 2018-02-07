@@ -1,0 +1,18 @@
+{
+  "name": "military-timezones",
+  "version": "1.0.0",
+  "description": "A JSON file of military timezone codes mapped to UTC offsets.",
+  "keywords": [
+    "military",
+    "timezone",
+    "timezones",
+    "UTC",
+    "offset"
+  ],
+  "author": "John Lamansky",
+  "license": "MIT",
+  "homepage": "https://github.com/lamansky/military-timezones",
+  "repository": "lamansky/military-timezones",
+  "main": "index.json",
+  "files": []
+}
